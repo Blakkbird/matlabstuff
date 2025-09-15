@@ -1,0 +1,12 @@
+# Matlab temporary / build files
+*.asv
+*.log
+*.mex*
+*.mdl
+*.slx
+*.fig
+*.mat
+*.mltbx
+# OS files
+.DS_Store
+Thumbs.db
