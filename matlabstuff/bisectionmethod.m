@@ -1,4 +1,5 @@
-% bisection method
+% bisection method 
+clear all; clc;
 f = @(x) x^2 - 4*x + 2;
 fprintf("Enter interval endpoints:\n");
 a = input("a : ");
